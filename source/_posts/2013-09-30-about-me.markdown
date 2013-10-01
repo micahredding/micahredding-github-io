@@ -1,0 +1,9 @@
+---
+layout: post
+title: "About me"
+date: 2013-09-30 21:44
+comments: true
+categories: 
+---
+
+I'm Micah Redding. I grew up as a preacher’s kid, and toured the world as a rock musician. Now I develop software — and write about the intersection of human values and technology.
