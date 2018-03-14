@@ -4,7 +4,7 @@
 	<title><![CDATA[Micah Redding]]></title>
 	<link href="http://micahredding.github.io/atom.xml" rel="self"/>
 	<link href="http://micahredding.github.io/"/>
-	<updated>2018-03-14T00:22:17-05:00</updated>
+	<updated>2018-03-14T00:23:39-05:00</updated>
 	<id>http://micahredding.github.io/</id>
 	<author>
 		<name><![CDATA[Micah Redding]]></name>
@@ -17,9 +17,9 @@
 		
 			<title type="html"><![CDATA[About me]]></title>
 		
-		<link href="http://micahredding.github.io/blog/2013/09/30/about-me/"/>
+		<link href="http://micahredding.github.io/blog/about-me/"/>
 		<updated>2013-09-30T21:44:00-05:00</updated>
-		<id>http://micahredding.github.io/blog/2013/09/30/about-me</id>
+		<id>http://micahredding.github.io/blog/about-me</id>
 		<content type="html">
 			<![CDATA[
 				
@@ -35,9 +35,9 @@
 		
 			<title type="html"><![CDATA[How to Save History]]></title>
 		
-		<link href="http://micahredding.github.io/blog/2013/09/11/how-to-save-history/"/>
+		<link href="http://micahredding.github.io/blog/how-to-save-history/"/>
 		<updated>2013-09-11T12:29:22-05:00</updated>
-		<id>http://micahredding.github.io/blog/2013/09/11/how-to-save-history</id>
+		<id>http://micahredding.github.io/blog/how-to-save-history</id>
 		<content type="html">
 			<![CDATA[
 				
